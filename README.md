@@ -5,7 +5,7 @@
 Projekttitel: Fake vs Real News Detector
 
 Auftraggeber und Problem:
-Dieses Projekt soll Mahreens Vater dabei behilflich sein, einen Nachrichtentext schnell als potenziell "Fake" oder "Real" einzuschätzen. Das Problem ist, dass im täglichen Umfeld viele Texte, Headlines und Social-Media-Meldungen nicht so einfach auf ihren Wahrheitsgehalt überprüft werden können.
+Dieses Projekt soll Mahreens Vater, Mohamed Mukrim, dabei behilflich sein, einen Nachrichtentext schnell als potenziell "Fake" oder "Real" einzuschätzen. Das Problem ist, dass im täglichen Umfeld viele Texte, Headlines und Social-Media-Meldungen nicht so einfach auf ihren Wahrheitsgehalt überprüft werden können.
 
 Kurze Beschreibung der Lösung und Vorgehensweise:
 Die Anwendung verwendet ein mit Nachrichten trainiertes Machine-Learning-Modell, um eingegebene Texte automatisiert zu klassifizieren. Der User gibt einen Text ein, die App bereinigt ihn, wandelt ihn in TF-IDF-Merkmale um und trifft dann mit logistischer Regression eine Vorhersage.
